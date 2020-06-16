@@ -8,7 +8,6 @@
 import os
 import sys
 import unittest
-from coverage import Coverage
 
 # Ensure that we look for any modules in our local lib dir.  This allows simple
 # testing and development use.  It also does not break the case where the lib
